@@ -1,4 +1,4 @@
-package com.techCournse.java.Overloading;
+package com.techCourse.java.Overloading;
 
 class SearchUtil {
 	public static int search(int[] arr, int element) {
